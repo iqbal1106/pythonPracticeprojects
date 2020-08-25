@@ -60,7 +60,7 @@ def inner1(func):
         print("khuda Hafiz")
     return inner2
 
-@inner1
+@inner
 def yah_mera_func():
     print("mai Humaira Hoon")
 
